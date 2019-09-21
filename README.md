@@ -23,7 +23,6 @@ pip install -r requirements.txt
 # Start prototyping
 
 Get the code
-
 ```
 gds5596:GitHub pauldougan$ git clone https://github.com/pauldougan/dcs-client-python-prototype.git
 cd dcs-client-python-prototype

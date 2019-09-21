@@ -22,7 +22,7 @@ brew bundle install
 Install python dependencies
 ```
 pip install -r requirements.txt
-``
+```
 
 # Start prototyping
 
@@ -36,6 +36,7 @@ Start prototyping in Jupyter
 ```
 jupyter notebook
 ```
+
 http://localhost:8888/tree
 
 # Running the prototype

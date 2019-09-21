@@ -1,4 +1,4 @@
-# dcs-client-python
+# dcs-client-python-prototype
 A client for the Document Checking Service implemented in python
 
 # Install prerequisite tools

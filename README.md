@@ -34,7 +34,7 @@ cd dcs-client-python-prototype
 
 Start prototyping in Jupyter
 ```
-jupyter notebook
+jupyter notebook notebook/prototyping.ipynb
 ```
 
 http://localhost:8888/tree

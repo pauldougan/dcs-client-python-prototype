@@ -3,4 +3,5 @@
 brew "hub"
 brew "jq"
 brew "jupyter"
+brew "plantuml"
 brew "python3"

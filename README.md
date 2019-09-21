@@ -16,12 +16,12 @@ https://github.com/pauldougan/dcs-client-python.git
 
 Install the tools
 ```
-brew bundle install
+brew bundle
 ```
 
 Install python dependencies
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 # Start prototyping

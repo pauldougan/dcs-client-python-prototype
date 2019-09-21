@@ -19,4 +19,11 @@ Install python dependencies
 ```
 pip install -r requirements.txt
 ``
+# Start prototyping
+
+```
+jupyter notebook
+```
+http://localhost:8888/tree
+
 

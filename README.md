@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 Get the code
 ```
-gds5596:GitHub pauldougan$ git clone https://github.com/pauldougan/dcs-client-python-prototype.git
+git clone https://github.com/pauldougan/dcs-client-python-prototype.git
 cd dcs-client-python-prototype
 ```
 

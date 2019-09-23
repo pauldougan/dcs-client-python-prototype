@@ -1,5 +1,6 @@
 # dcs-client-python-prototype
-A client for the Document Checking Service implemented in python for the Verify Q2 2019 firebreak
+A client for the Document Checking Service implemented in python for the Verify Q3 2019 🔥firebreak
+
 > Trello: [Build a DCS client from scratch](https://trello.com/c/wAMBwrWI)
 
 # Install prerequisite tools

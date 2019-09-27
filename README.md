@@ -5,9 +5,9 @@ A client for the Document Checking Service implemented in python for the Verify 
 - Trello: [Build a DCS client from scratch](https://trello.com/c/wAMBwrWI)
 - Use the [public documentation for the DCS Pilot](https://dcs-pilot-docs.cloudapps.digital/) 
 
-# Install prerequisite tools
+# Install prerequisites
 
-Install Homebrew package installer
+Homebrew package installer
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
@@ -42,15 +42,14 @@ jupyter notebook notebook/prototyping.ipynb
 
 http://localhost:8888/tree
 
-# Running the prototype
 
 # Support
 
-If something does not make sense in the DCS Pilot documentation [raise an issue](https://github.com/alphagov/dcs-pilot-docs/issues/new)
+If something does not make sense in the DCS Pilot documentation [raise an issue](https://github.com/alphagov/dcs-pilot-docs/issues/new) part of the reason 
 
-# References
+# Standards
 
-| standard                                  | uri                                                               |
+|: standard                                  |: uri                                                               |
 |----------------------------------------- |----------------------------------------------------------------- |
 |  A128CBC-HS256                            | https://www.rfc-editor.org/rfc/rfc7518.html#section-5.2.3         |
 |  HTTP-Status-Code                         | https://www.rfc-editor.org/rfc/rfc2616.html#section-10            |

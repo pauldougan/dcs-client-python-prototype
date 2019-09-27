@@ -46,7 +46,7 @@ http://localhost:8888/tree
 
 # Support
 
-If something does not make sense [raise an issue](https://github.com/alphagov/dcs-pilot-docs/issues/new)
+If something does not make sense in the DCS Pilot documentation [raise an issue](https://github.com/alphagov/dcs-pilot-docs/issues/new)
 
 # References
 

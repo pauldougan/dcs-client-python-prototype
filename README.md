@@ -3,6 +3,9 @@ A client for the Document Checking Service implemented in python for the Verify 
 
 > Trello: [Build a DCS client from scratch](https://trello.com/c/wAMBwrWI)
 
+Use the [public documentation for the DCS Pilot](https://dcs-pilot-docs.cloudapps.digital/) and if something does not make sense [raise an issue](https://github.com/alphagov/dcs-pilot-docs/issues/new) 
+
+
 # Install prerequisite tools
 
 Install Homebrew package installer

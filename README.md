@@ -51,7 +51,7 @@ If something does not make sense [raise an issue](https://github.com/alphagov/dc
 # References
 
 | standard                                  | uri                                                               |
-|: ----------------------------------------- | :----------------------------------------------------------------- |
+|----------------------------------------- |----------------------------------------------------------------- |
 |  A128CBC-HS256                            | https://www.rfc-editor.org/rfc/rfc7518.html#section-5.2.3         |
 |  HTTP-Status-Code                         | https://www.rfc-editor.org/rfc/rfc2616.html#section-10            |
 |  HTTP                                     | https://www.rfc-editor.org/info/rfc2616                           |
